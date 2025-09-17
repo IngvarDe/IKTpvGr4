@@ -19,7 +19,7 @@
                 //esimese if sees on omakorda if ja else
                 //seal kontrollitakse, kas number on suurem kui 200
                 // või väiksem
-                if (y < 200)
+                if (y <= 200)
                 {
                     Console.WriteLine("Number on väiksem, kui 200");
                     Console.WriteLine("Sinu number on " + y);
