@@ -28,7 +28,10 @@
             }
             else if (color == "green")
             {
+                //see tagatausta värv
                 Console.BackgroundColor = ConsoleColor.Green;
+                //see on teksti värv
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("See on roheline");
             }
             else if (color == "white")
