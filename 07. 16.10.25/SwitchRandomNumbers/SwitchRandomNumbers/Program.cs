@@ -40,6 +40,8 @@
                 default:
                     Console.WriteLine("Number is out of range");
                     break;
+
+                //kui kood valmis, siis teha flowchart
             }
         }
     }
