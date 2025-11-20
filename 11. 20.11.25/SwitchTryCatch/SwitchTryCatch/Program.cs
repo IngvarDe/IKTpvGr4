@@ -11,7 +11,6 @@
 
             try
             {
-
                 int input = int.Parse(Console.ReadLine());
 
                 switch (input)
@@ -37,10 +36,6 @@
             {
                 Console.WriteLine("Sisestatud number on liiga suur või liiga väike.");
             }
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine($"Tekkis ootamatu viga: {ex.Message}");
-            //}
         }
     }
 }
