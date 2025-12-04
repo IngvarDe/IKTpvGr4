@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopAdding", "ForLoopAdding\ForLoopAdding.csproj", "{276C02AD-74DF-4A97-BC81-6AF4AA18A827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276C02AD-74DF-4A97-BC81-6AF4AA18A827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276C02AD-74DF-4A97-BC81-6AF4AA18A827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276C02AD-74DF-4A97-BC81-6AF4AA18A827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276C02AD-74DF-4A97-BC81-6AF4AA18A827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8029AF9D-2E4F-4CB5-8E14-74F89810FDB3}
+	EndGlobalSection
+EndGlobal
