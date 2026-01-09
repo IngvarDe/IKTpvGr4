@@ -6,8 +6,6 @@
         {
             Console.WriteLine("Ruutvõrrand");
 
-            //ax2 + bx + c
-
             //kasutaja peab saama sisestada väärtuseid a, b ja c
 
             Console.Write("Sisesta a väärtus ");
@@ -23,7 +21,6 @@
 
             Console.WriteLine($"x1 = {(-b + Math.Sqrt(d)) / (2 * a)}, " +
                 $"x2 = {(-b + Math.Sqrt(d)) / (2 * a)}" );
-
         }
     }
 }
